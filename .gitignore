@@ -1,0 +1,20 @@
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 依赖
+node_modules/
+
+# 扩展备份文件（体积大且属于 Anthropic，不入库）
+*.orig
+*.bak
+index.js
+
+# 编辑器
+.vscode/
+.idea/
+
+# 临时
+*.tmp
+*.log
